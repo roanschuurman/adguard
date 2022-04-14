@@ -1,4 +1,4 @@
-||abc.net.au^
-||ad.nl^
-||nu.nl^
-||9news.com.au^
+||abc.net.au^$empty
+||ad.nl^$empty
+||nu.nl^$empty
+||9news.com.au^$empty
